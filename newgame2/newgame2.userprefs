@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\LvlManager.cs">
+    <Files>
+      <File FileName="Assets\scripts\scoremanager.cs" Line="33" Column="17" />
+      <File FileName="Assets\scripts\movechopstick1.cs" Line="49" Column="1" />
+      <File FileName="Assets\scripts\timer.cs" Line="17" Column="18" />
+      <File FileName="Assets\scripts\score.cs" Line="11" Column="26" />
+      <File FileName="Assets\scripts\LvlManager.cs" Line="26" Column="41" />
+      <File FileName="Assets\scripts\changescene.cs" Line="5" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
